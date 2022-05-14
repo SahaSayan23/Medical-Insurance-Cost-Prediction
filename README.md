@@ -4,7 +4,7 @@ It is a Machine Learning Project built by me ( Sayan Saha ) for Predicting the C
 
 The notebook file of the source code and csv file of the dataset all are shared on GitHub. 
 
-Technologies Used - Machine Learning, Python Programming, Linear Regression Model.
+Technologies Used - Machine Learning, Python Programming, Linear Regression Model, Data Analysis, Data Preprocessing.
 
 
 
